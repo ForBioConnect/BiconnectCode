@@ -1,0 +1,5 @@
+C:\New folder\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\New folder\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\New folder\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\New folder\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\New folder\TCPClient\TCPClient\obj\Debug\TCPClient.pdb

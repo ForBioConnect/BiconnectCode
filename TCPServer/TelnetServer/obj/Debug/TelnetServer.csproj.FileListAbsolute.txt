@@ -1,0 +1,6 @@
+C:\New folder\TCPServer\TelnetServer\bin\Debug\TelnetServer.exe.config
+C:\New folder\TCPServer\TelnetServer\bin\Debug\TelnetServer.exe
+C:\New folder\TCPServer\TelnetServer\bin\Debug\TelnetServer.pdb
+C:\New folder\TCPServer\TelnetServer\obj\Debug\TelnetServer.csprojResolveAssemblyReference.cache
+C:\New folder\TCPServer\TelnetServer\obj\Debug\TelnetServer.exe
+C:\New folder\TCPServer\TelnetServer\obj\Debug\TelnetServer.pdb
