@@ -1,0 +1,28 @@
+# BiconnectCode
+Reasoning behind your technical choices 
+Used the basic Socket .net class to implement both server and client.
+Used static all over to maintain a single TCP server to handle multiple client
+Dispose has been called to ensure proper dispose.
+Used ManualResetEvent to indicate the state of the socket and received.
+
+
+
+Trade-offs you might have made or what you might do differently if you were to spend additional time on the project
+Wanted to write a general component that can connect to TCP, HTTP and so on.Write a Factory pattern to create server’s.
+Dependency Injection for passing in the parameter of the TCP/HTTP property.
+Use base interface to allow extensibility.
+Maintain a hash table with session id of with unquie id for  client connected to enable better reporting for count and counter.
+Remove the static and add lauch the TCP server on a thread(task)
+
+
+References
+Msdn
+Stackoverflow
+
+Source code
+ Please post the source code of the project on github and share the link 
+
+https://github.com/ForBioConnect/BiconnectCode
+
+
+
